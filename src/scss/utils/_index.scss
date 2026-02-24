@@ -1,4 +1,10 @@
+@forward "reset";
+@forward "spacing";
+@forward "colors";
+@forward "font";
+@forward "sizing";
 @forward "variables";
-// @forward "mixins";
-// @forward "functions";
-// @forward "placeholders";
+@forward "flex";
+@forward "utils";
+@forward "mixins";
+@forward "functions";
